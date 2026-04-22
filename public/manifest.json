@@ -1,0 +1,28 @@
+{
+  "name": "Futbol Site",
+  "short_name": "Futbol",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001e62",
+  "theme_color": "#001e62",
+  "icons": [
+    {
+      "src": "/img/icon/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
